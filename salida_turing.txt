@@ -1,0 +1,2 @@
+q(0)0011  |- Xq(1)011  |- X0q(1)11  |- Xq(2)0Y1  |- q(2)X0Y1  |- Xq(0)0Y1  |- XXq(1)Y1  |- XXYq(1)1  |- XXq(2)YY  |- Xq(2)XYY  |- XXq(0)YY  |- XXYq(3)Y  |- XXYYq(3)B  |- XXYYBq(4)B 
+La cadena es valida
